@@ -1,0 +1,16 @@
+#highlightr-tooltip {
+  position: fixed;
+  background: #1a1a2e;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: pointer;
+  z-index: 999999;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  user-select: none;
+}
+
+#highlightr-tooltip:hover {
+  background: #16213e;
+}
